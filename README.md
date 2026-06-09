@@ -14,11 +14,6 @@ Klik tombol ini untuk membuka tampilan HTML dari GitHub Pages:
 
 **[Buka Demo HTML](https://aidilfarhanr-sketch.github.io/Koperasi-Modern/)**
 
-Alternatif jika GitHub Pages belum aktif:
-
-- **[Lihat file index.html](./index.html)**
-- **[Lihat file HTML asli](./Koperasi_raresmaju.html)**
-
 > Catatan: GitHub Pages hanya menjalankan file statis seperti HTML, CSS, dan JavaScript. Fitur backend PHP dan database MySQL tidak akan berjalan di GitHub Pages. Untuk menjalankan sistem penuh seperti login, dashboard data, simpanan, pinjaman, dan transaksi, gunakan XAMPP atau hosting yang mendukung PHP + MySQL.
 
 ---
