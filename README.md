@@ -180,67 +180,6 @@ Koperasi-Modern/
 
 ---
 
-## Cara Upload ke GitHub
-
-Repository tujuan:
-
-```text
-https://github.com/aidilfarhanr-sketch/Koperasi-Modern
-```
-
-Langkah upload lewat website GitHub:
-
-1. Buka repository **Koperasi-Modern**.
-2. Klik **uploading an existing file** atau klik **Add file** lalu pilih **Upload files**.
-3. Extract ZIP project terlebih dahulu.
-4. Upload isi folder project, bukan ZIP mentahnya.
-5. Pastikan file yang ada di root repository minimal seperti ini:
-
-```text
-index.html
-README.md
-Koperasi_raresmaju.html
-koperasi_raresmaju.sql
-api/
-netlify.toml
-```
-
-6. Isi commit message:
-
-```text
-Initial commit RaresMaju Koperasi Digital
-```
-
-7. Klik **Commit changes**.
-
----
-
-## Cara Membuat HTML Bisa Dibuka dari README
-
-Agar tombol **Buka Demo HTML** di README bisa berjalan, aktifkan GitHub Pages:
-
-1. Buka repository **Koperasi-Modern**.
-2. Masuk ke **Settings**.
-3. Pilih menu **Pages**.
-4. Pada bagian **Build and deployment**, pilih:
-
-```text
-Source: Deploy from a branch
-Branch: main
-Folder: / root
-```
-
-5. Klik **Save**.
-6. Setelah aktif, buka link:
-
-```text
-https://aidilfarhanr-sketch.github.io/Koperasi-Modern/
-```
-
-Jika link belum langsung aktif, tunggu proses deploy GitHub Pages selesai. Biasanya akan muncul tanda centang hijau di bagian deployment.
-
----
-
 ## Cara Menjalankan Sistem Penuh di XAMPP
 
 Gunakan cara ini jika ingin fitur PHP dan database berjalan.
@@ -276,7 +215,7 @@ Buat database baru dengan nama:
 koperasi_raresmaju
 ```
 
-### 4. Import Database
+### 4. Import Database (Hubungi Saya)
 
 Masuk ke database `koperasi_raresmaju`, lalu import file:
 
