@@ -345,58 +345,7 @@ Contoh hosting yang cocok:
 
 ---
 
-## Troubleshooting
 
-### 1. Demo HTML GitHub Pages 404
-
-Pastikan:
-
-- File `index.html` ada di root repository.
-- GitHub Pages sudah aktif dari branch `main` dan folder `/ root`.
-- Repository sudah public atau Pages mendukung repository tersebut.
-
-### 2. Login tidak jalan di GitHub Pages
-
-Itu normal, karena GitHub Pages tidak menjalankan PHP dan MySQL. Jalankan melalui XAMPP atau hosting PHP + MySQL.
-
-### 3. API error di localhost
-
-Cek:
-
-- Apache aktif.
-- MySQL aktif.
-- Database `koperasi_raresmaju` sudah dibuat.
-- File `koperasi_raresmaju.sql` sudah di-import.
-- Konfigurasi `api/config.php` sesuai.
-
-### 4. Halaman dibuka lewat file langsung tetapi fitur error
-
-Jangan buka dengan format:
-
-```text
-file:///C:/...
-```
-
-Gunakan:
-
-```text
-http://localhost/Koperasi-Modern/
-```
-
----
-
-## Status Project
-
-Project ini siap digunakan untuk:
-
-- Upload ke GitHub.
-- Dokumentasi README.
-- Preview HTML melalui GitHub Pages.
-- Demo frontend statis.
-- Pengujian sistem penuh melalui XAMPP.
-- Pengembangan lanjutan ke hosting PHP + MySQL.
-
----
 
 ## Pembuat
 
