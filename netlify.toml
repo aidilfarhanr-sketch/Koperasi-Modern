@@ -1,0 +1,14 @@
+# Konfigurasi Netlify untuk deploy frontend statis.
+# Catatan penting:
+# - Netlify tidak menjalankan PHP/MySQL, sehingga folder api/ tidak akan aktif di Netlify.
+# - Untuk mode full database, deploy proyek ini ke hosting yang mendukung PHP + MySQL.
+[build]
+  publish = "."
+  command = ""
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
