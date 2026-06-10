@@ -14,7 +14,7 @@ Klik tombol ini untuk membuka tampilan HTML dari GitHub Pages:
 
 **[Buka Demo HTML](https://aidilfarhanr-sketch.github.io/Koperasi-Modern/)**
 
-> Catatan: GitHub Pages hanya menjalankan file statis seperti HTML, CSS, dan JavaScript. Fitur backend PHP dan database MySQL tidak akan berjalan di GitHub Pages. Untuk menjalankan sistem penuh seperti login, dashboard data, simpanan, pinjaman, dan transaksi, gunakan XAMPP atau hosting yang mendukung PHP + MySQL.
+> Catatan: GitHub Pages hanya menjalankan file statis seperti HTML, CSS, dan JavaScript. Fitur backend PHP dan database MySQL tidak akan berjalan di GitHub Pages. Untuk menjalankan sistem penuh seperti login, dashboard data, simpanan, pinjaman, dan transaksi, gunakan XAMPP atau hosting yang mendukung PHP + MySQL (harap hubungi saya).
 
 ---
 
@@ -226,4 +226,4 @@ Dibuat oleh:
 Aidil Farhan Rares
 ```
 
-Project ini dapat digunakan sebagai bahan pembelajaran, tugas, presentasi, dan portofolio pengembangan web berbasis HTML, JavaScript, PHP, dan MySQL.
+ pengembangan web berbasis HTML, JavaScript, PHP, dan MySQL.
